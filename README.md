@@ -13,8 +13,10 @@ X.c Reference
 4. HTTP
 5. API
 6. JSON
-JavaScript Object Notation.
+A)JavaScript Object Notation.
 
+JSON is a syntax for storing and exchanging the data.
 
+It is easier to use alternative to XML.
 7. Databases
 8. Editor

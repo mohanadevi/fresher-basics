@@ -8,7 +8,11 @@ X.c Reference
 
 1. Cloud/Internet
 
-A)
+A)Cloud is a service model in which data is maintained, managed and made available to users over a network.
+
+B)It provides social network services and users can promote their products.
+
+C)http://www.networkpolo.com/cloud-computing-benefits-and-drawbacks.php
 
 A)Internet-It is a global network connecting millions of computers.Also called networks of networks.
 
@@ -73,3 +77,9 @@ C)https://answers.yahoo.com/question/index?qid=1006042632553
 
 
 8. Editor
+
+A)Text editor-It is a type of program used for editing text files. Text editors are provided with operating systems and software development packages.
+
+B)Text editors acts as a interface between the user and the application.Ex:Notepad is a editor used in Java programming.
+
+c)https://www.google.co.in/search?q=why+we+use+text+editor&oq=why+we+use+text+editor&aqs=chrome..69i57.6918j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
